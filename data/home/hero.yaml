@@ -2,8 +2,9 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "From **0 to 1** or from **1 to ∞**"
+  text: "No matter which stage of your business is at, we can help you to achieve your goals."
+  image: "images/Clack-prew-Product-20Launch.jpg"
 
   buttonPrimary:
     label: "How we work"

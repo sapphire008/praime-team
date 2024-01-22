@@ -14,8 +14,11 @@ summaryLength: 20
 # Bottom
 params:
   title: "PRAIME Team LLC"
-  description: "We specialize in a range of cutting-edge services including personalized AI solutions, machine learning, advanced recommendation systems, efficient search algorithms, and comprehensive media and streaming strategies. Our innovative approach to measurement and advertising sets us apart, allowing us to deliver tailored, results-driven solutions to our clients."
+  description: "We provide consulting services on Artificial Intelligence (AI), Machine Learning (ML), Recommendation Systems, Search, Media, Streaming, e-Commerce, and Advertising."
+  
+  # Images of the posts
   images: 
+    - "images/Clack-prew-Product-20Launch.jpg"
     - "images/hero-image.png"
 
   # Favicon in tab
@@ -53,7 +56,7 @@ menus:
       weight: 2
 
     - name: "Our team"
-      url: "/#"
+      url: "/about"
       weight: 3
 
     - name: "Pricing"
@@ -80,7 +83,7 @@ menus:
       weight: 2
 
     - name: "Our team"
-      url: "/#"
+      url: "/about"
       weight: 3
 
     - name: "Pricing"
