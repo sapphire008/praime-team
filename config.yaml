@@ -1,6 +1,6 @@
 baseURL: "https://praimeteam.llc"
-theme: "up-business-theme"
 languageCode: "en-us"
+# theme: "up-business-theme" # based on, with additional modifications
 
 
 # Site banner
