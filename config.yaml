@@ -27,7 +27,7 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
+    # dribbble: "#"
     instagram: "#"
     facebook: "#"
     twitter: "#"
@@ -35,7 +35,6 @@ params:
 
   location:
     - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
     - "trungkienspktnd@gamail.com"
