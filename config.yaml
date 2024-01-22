@@ -4,7 +4,7 @@ languageCode: "en-us"
 
 
 # Site banner
-title: "PRAME Team LLC"
+title: "PRAIME Team LLC"
 
 # googleAnalytics: ""
 
@@ -14,11 +14,12 @@ summaryLength: 20
 # Bottom
 params:
   title: "PRAIME Team LLC"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "We specialize in a range of cutting-edge services including personalized AI solutions, machine learning, advanced recommendation systems, efficient search algorithms, and comprehensive media and streaming strategies. Our innovative approach to measurement and advertising sets us apart, allowing us to deliver tailored, results-driven solutions to our clients."
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  # Favicon in tab
+  logo: "images/arrow-up.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -30,6 +31,7 @@ params:
     instagram: "#"
     facebook: "#"
     twitter: "#"
+    linkedin: "#"
 
   location:
     - "3891 Ranchview Dr. Richardson, California 62639"
